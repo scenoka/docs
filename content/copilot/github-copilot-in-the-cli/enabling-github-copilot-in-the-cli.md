@@ -34,7 +34,7 @@ An enterprise owner can choose whether to enable a feature for all organizations
 
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.copilot-tab %}
-1. Click the **Technical preview features** tab.
+1. Click the **Beta features** tab.
 1. To the right of "{% data variables.product.prodname_copilot_cli %}", select the dropdown menu, then choose the appropriate option.
 
     - Click **Allowed** to enable the {% data variables.product.prodname_copilot_cli_short %} beta for all organizations under your enterprise.
