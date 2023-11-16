@@ -28,7 +28,7 @@ An enterprise owner can choose whether to enable {% data variables.product.prodn
 
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.copilot-tab %}
-1. Click the **Technical preview features** tab.
+1. Click the **Beta features** tab.
 1. Next to "{% data variables.product.prodname_copilot_enterprise %}", select the dropdown menu (labeled **No policy** by default), then choose from the following options.
 
    - **No policy**: Each organization can choose whether to enable the feature for its members.
